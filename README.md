@@ -1,5 +1,6 @@
 # COMP-3350-Comp-Org-and-Assembly-Language-Programming
-# AUBURN CS/SE STUDENTS - DO NOT LOOK AT THIS. This Repo is for my personal storage and showcase. You learn nothing from cheating and it will only hurt you in the long run.
+# AUBURN CS/SE STUDENTS - DO NOT LOOK AT THIS. 
+# This Repo is for my personal storage and showcase. You learn nothing from cheating and it will only hurt you in the long run.
 
 Project 1: Create a program that will read a value from an array, add another value to this, and save the sum of those two values into a specific register
 Grade: 100/100
